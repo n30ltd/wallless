@@ -1,6 +1,7 @@
 # wallless机场最新地址
 
-最新地址：[wlsite.xyz](https://wlsite.xyz)
+永久域名：WLviva.com
+最新墙内地址：[wlsite.xyz](https://wlsite.xyz)
 
 ## wallless简介
 
